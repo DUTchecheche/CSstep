@@ -151,7 +151,7 @@ if __name__ == "__main__":
 
     plt.rcParams["font.family"] = "Times New Roman"
     fig, ax1 = plt.subplots(figsize=(6, 6), dpi=150)
-    ax1.plot(episode_list, median_SAscore, label='Normized_SAscore', color='black')
+    ax1.plot(episode_list, median_SAscore, label='Normalized_SAscore', color='black')
     ax1.plot(episode_list, median_QED, label='QED', color='red')
     ax1.set_xlabel('Episode', fontsize=16)
     ax1.set_xticks(np.arange(0, len(df) + 1, 1000))
