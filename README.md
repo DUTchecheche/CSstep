@@ -75,4 +75,4 @@ training_cc.svg
 ----
 an example of training_cc.svg:
 
-![training_cc](https://github.com/user-attachments/assets/b959d127-561c-4fe8-a4f0-9c39d4e37108)
+![training_cc](https://github.com/user-attachments/assets/71731ad1-530f-4b9a-90c4-64b4177a44ff)
