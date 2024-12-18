@@ -1,3 +1,5 @@
+CSstep: Step-by-step exploration of the chemical space of drug molecules via multi-agent and multi-stage reinforcement learning
+===
 CSstep is a drug molecule generation/optimization framework based on the Markov decision process and deep reinforcement learning. CSstep is inspired by Zhou et al. , Jeon et al. , and Fang et al.
 
 By combining a multi-agent joint decision strategy and a multi-stage fine-tuning strategy in this framework, the trade-offs among multiple objective properties during the molecular optimization process and the complete exploration process are visualized in chemical space maps, which is expected to provide more chemical insights for drug discovery and inspire solution ideas for general multi-objective optimization problems. 
