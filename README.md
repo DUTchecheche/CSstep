@@ -36,7 +36,7 @@ conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 cpuonly -c 
 ```
 others:
 ```
-conda install rdkit=2022.9.5 numpy=1.21.6 pandas=1.3.5 matplotlib=3.5.3
+pip install rdkit==2022.9.5 pandas==1.3.5 matplotlib==3.5.3
 ```
 options: 
 
