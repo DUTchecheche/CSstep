@@ -11,8 +11,7 @@ CSstep can achieve step-by-step, directed, and intelligent exploration of the dr
 
 [3] Fang Y, Pan X, Shen H-B, et al. Bioinformatics, 2023, 39(4): btad157.
 
-![Fig1](https://github.com/user-attachments/assets/f55f48f6-106d-4ccc-b991-57f4dca0a463)
-
+![framework](https://github.com/user-attachments/assets/f134c798-aa4e-440e-814a-dcb36bedf1f1)
 
 Usage:
 
