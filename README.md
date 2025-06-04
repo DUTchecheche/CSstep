@@ -25,13 +25,13 @@ conda activate CSstep
 ```
 (3) Install necessary dependencies:
 
-pytorch 1.13.1:
+pytorch 1.13.1 (with CUDA):
 ```
-conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
 ```
-or
+or (CPU only)
 ```
-conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 cpuonly -c pytorch
+pip3 install torch torchvision torchaudio
 ```
 others:
 ```
