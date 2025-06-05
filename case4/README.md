@@ -17,5 +17,5 @@ The following figure provides a detailed summary of the generation results, and 
 *training_ZM241385.svg*
 
 ----
-
+![results](https://github.com/user-attachments/assets/d02ab036-e585-4868-819c-102a9724260d)
 Fig. Overview of the results in this case.
