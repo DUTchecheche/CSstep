@@ -1,0 +1,4 @@
+0,0.825,0.502,7.469,Nc1nc(NCCc2ccc(O)cc2)nc2nc(-c3ccco3)nn12
+1000,0.811,0.59,8.188,Cc1cccc(CCN(C)c2nc(N)n3nc(-c4ccco4)nc3n2)c1
+2000,0.811,0.59,8.188,Cc1cccc(CCN(C)c2nc(N)n3nc(-c4ccco4)nc3n2)c1
+3000,0.811,0.59,8.188,Cc1cccc(CCN(C)c2nc(N)n3nc(-c4ccco4)nc3n2)c1
