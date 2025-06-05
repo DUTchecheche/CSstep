@@ -19,7 +19,7 @@ The following figure provides a detailed summary of the generation results, and 
 *training_cc.svg*
 
 ----
-
+![results](https://github.com/user-attachments/assets/0db1f94e-796f-4ef2-9316-5aef9eb82b58)
 Fig. Overview of the results in this case.
 
 *Further training (more episodes) or using eicosane as an initial molecule should result in better generation results. The currently generated molecules are much smaller in size compared to imatinib (Number of non-hydrogen atoms: 37).*
