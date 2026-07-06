@@ -27,7 +27,7 @@ conda activate CSstep
 
 pytorch 1.13.1:
 ```
-pip install torch==1.13.1+cpu torchvision==0.14.1+cpu torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cpu
+conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 cpuonly -c pytorch
 ```
 others:
 ```
@@ -37,9 +37,6 @@ options:
 
 pymol 3.1.0a0, for get_pocket_using_pymol.py
 
-This Python library can only be used in an environment where the PyMol software is installed.
-
-Download PyMol 3.1: https://www.pymol.org/
 
 (4) Enter the directory where CSstep.py is located:
 ```
